@@ -14,7 +14,7 @@ Example: `full_v6_address = "2001:0db8:fade:food:dead:0000:0000:0000"`
 
 Next, you have to fill in `start_interface_number`, it must be an integer. It will indicate where the numbering scheme for the tunnel interfaces is starting.
 
-Example: `start_interface_number = 100`, it means we will start numbering the tunnels from 100, the first tunnel will be `'tun101'`
+Example: `start_interface_number = 100`, it means we will start numbering the tunnels from 100, the first tunnel will be `'tun103'`
 
 Now, you have to fill in the router list. It will be a list containing a list for each router you want to be in the mesh.
 
